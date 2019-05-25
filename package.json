@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "slides-topic",
+  "name": "slides-inputconf-2019-open-source",
   "version": "0.0.0",
-  "description": "Slides for my talk about Topic",
+  "description": "Slides for my talk about Open Source at Input conference",
   "main": "index.html",
   "scripts": {
     "start": "http-server"
